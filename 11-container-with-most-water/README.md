@@ -35,7 +35,7 @@ Output: 1
 
 ## __Results:__
 
-Runtime: _845_ ms_, faster than _69.90%_ of Python3 online submissions for Regular Expression Matching.
+Runtime: _845 ms_, faster than _69.90%_ of Python3 online submissions for Regular Expression Matching.
 Memory Usage: _27.6 MB_, less than _22.34%_ of Python3 online submissions for Regular Expression Matching.
 |Status|Runtime|Memory|
 |---|---|---|
